@@ -1,2 +1,4 @@
-# PrimeiroRepositorio
- Primeiro repositório do curso de git e github guanabara
+# Primeiro Repositório
+ Primeiro repositório do curso de Git e Github do Guanabara
+
+ Repositório criado durante uma aula do curso
